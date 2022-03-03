@@ -1,4 +1,5 @@
 ## Welcome to GitHub Pages
+[pic](https://i.imgur.com/McGcNbt.jpeg)
 
 You can use the [editor on GitHub](https://github.com/Ajithchacko2001/newweb/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
